@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>RotatingSquare.qml</file>
+    </qresource>
+</RCC>
